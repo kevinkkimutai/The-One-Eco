@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 const CurrencyConvert = (props) => {
     const [output, setOutput] = useState(props.amount);
     const currency = 'KSH';
-    const currencySymbol = 'KSh ';
+    const currencySymbol = 'ksh ';
 
     useEffect(() => {
         // Convert USD to KSH (using approximate exchange rate)

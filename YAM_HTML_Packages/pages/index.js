@@ -26,8 +26,8 @@ export default function Home2() {
   return (
     <div>
       <Head>
-        <title>{t('Index_page')}</title>
-        <meta name="description" content={t('Index_page')} />
+        <title>Kten Ecommerce</title>
+        <meta name="description" content="Shop the latest products at Kten Ecommerce" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
