@@ -1,28 +1,28 @@
 import Head from 'next/head'
 import useTranslation from '../components/ultils/useTranslation'
 import Header from '../components/Header'
-import SectionSlideshowIndex4 from '../components/SectionSlideshowIndex4'
 import SectionCategoriesSlider from '../components/SectionCategoriesSlider'
-import SectionBannersCaption3 from '../components/SectionBannersCaption3'
-import SectionCountdown from '../components/SectionCountdown'
-import SectionTwoBanners from '../components/SectionTwoBanners'
+import SectionSlideshowIndex5 from '../components/SectionSlideshowIndex5'
+import SectionCategoriesProducts from '../components/SectionCategoriesProducts'
 import SectionProductSlider from '../components/SectionProductSlider'
-import SectionProductTabBanner from '../components/SectionProductTabBanner'
+import SectionThreeBanners2 from '../components/SectionThreeBanners2'
+import SectionBannersProducts from '../components/SectionBannersProducts'
 import SectionThreeBanners from '../components/SectionThreeBanners'
-import SectionProductGrid from '../components/SectionProductGrid'
+import SectionBrandListing3 from '../components/SectionBrandListing3'
+import SectionBlogSlider from '../components/SectionBlogSlider'
+import SectionInformation from '../components/SectionInformation'
 import Footer from '../components/Footer'
 import ExtNewsletterPopup from '../components/ExtNewsletterPopup'
 import ExtCookiesBar from '../components/ExtCookiesBar'
 import ExtNotification from '../components/ExtNotification'
+import { DataIndexBanners3 } from '../components/data/DataIndexBanners';
+import { DataIndexBP1, DataIndexBP2 } from '../components/data/DataIndexBannersProducts';
 
-import { DataIndexBC1, DataIndexBC2 } from '../components/data/DataIndexBannersCaption3'
-import { DataIndexBanners, DataIndexBanners2 } from '../components/data/DataIndexBanners';
-
-export default function Home4() {
+export default function Home5() {
     if (typeof window !== 'undefined') {
         document.body.className = "";
         document.body.classList.add('template-index');
-        document.body.classList.add('yam-react-4');
+        document.body.classList.add('yam-react-5');
     }
     const { t } = useTranslation();
     return (
@@ -35,27 +35,40 @@ export default function Home4() {
 
             <Header />
             <main>
-                <SectionSlideshowIndex4 />
                 <SectionCategoriesSlider />
-                <SectionBannersCaption3 data={DataIndexBC1()} />
-                <SectionCountdown />
-                <SectionBannersCaption3 data={DataIndexBC2()} />
-                <SectionTwoBanners
-                    banner1={DataIndexBanners().img7}
-                    banner2={DataIndexBanners().img8}
-                    link1={DataIndexBanners().img7_link}
-                    link2={DataIndexBanners().img8_link} />
+                <SectionSlideshowIndex5 />
+                <SectionCategoriesProducts />
                 <SectionProductSlider />
-                <SectionProductTabBanner />
-                <SectionThreeBanners
-                    banner1={DataIndexBanners2().img1}
-                    banner2={DataIndexBanners2().img2}
-                    banner3={DataIndexBanners2().img3}
-                    link1={DataIndexBanners2().img1_link}
-                    link2={DataIndexBanners2().img2_link}
-                    link3={DataIndexBanners2().img3_link}
+                <SectionThreeBanners2
+                    banner1={DataIndexBanners3().img1}
+                    banner2={DataIndexBanners3().img2}
+                    banner3={DataIndexBanners3().img3}
+                    link1={DataIndexBanners3().img1_link}
+                    link2={DataIndexBanners3().img2_link}
+                    link3={DataIndexBanners3().img3_link}
                 />
-                <SectionProductGrid />
+                <SectionBannersProducts data={DataIndexBP1()} count={3} />
+                <SectionThreeBanners
+                    banner1={DataIndexBanners3().img4}
+                    banner2={DataIndexBanners3().img5}
+                    banner3={DataIndexBanners3().img6}
+                    link1={DataIndexBanners3().img4_link}
+                    link2={DataIndexBanners3().img5_link}
+                    link3={DataIndexBanners3().img6_link}
+                />
+                <SectionProductSlider />
+                <SectionBrandListing3 />
+                <SectionBannersProducts data={DataIndexBP2()} count={2} />
+                <SectionThreeBanners
+                    banner1={DataIndexBanners3().img7}
+                    banner2={DataIndexBanners3().img8}
+                    banner3={DataIndexBanners3().img9}
+                    link1={DataIndexBanners3().img7_link}
+                    link2={DataIndexBanners3().img8_link}
+                    link3={DataIndexBanners3().img9_link}
+                />
+                <SectionBlogSlider />
+                <SectionInformation />
             </main>
             <Footer />
             <ExtNewsletterPopup />
