@@ -1,8 +1,11 @@
 import { useRouter } from "next/router";
 import { useCallback } from "react";
 import en from "../../public/locales/en/en";
+import fr from "../../public/locales/fr/fr";
+import it from "../../public/locales/it/it";
+import jp from "../../public/locales/jp/jp";
 
-const TRANSLATIONS = { en };
+const TRANSLATIONS = { en, fr, jp, it };
 
 export default function useTranslation() {
   const router = useRouter();
