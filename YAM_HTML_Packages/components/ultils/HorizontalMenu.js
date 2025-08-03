@@ -55,7 +55,7 @@ const HorizontalMenu = () => {
                             </li>
                         </ul>
                     </li>
-                    <li className="header__menu-root menu__dropdown menu__mega">
+                    <li className="header__menu-root menu__dropdown menu__mega hidden">
                         <Link href={TextMenu.find((m) => m.id === 3).url} className={`header__menu-item list-menu__item dropdown-toggle ${ (router.asPath === TextMenu.find((m) => m.id === 3).url)? 'header__menu-active':'' }`}>
                             <span className="text">{TextMenu.find((m) => m.id === 3).text}</span>
                             <SVGArrowDown />
@@ -72,7 +72,7 @@ const HorizontalMenu = () => {
                             </li>
                         </ul>
                     </li>
-                    <li className="header__menu-root menu__dropdown menu__mega">
+                    <li className="header__menu-root menu__dropdown menu__mega hidden">
                         <Link href={TextMenu.find((m) => m.id === 4).url} className={`header__menu-item list-menu__item dropdown-toggle ${ (router.asPath === TextMenu.find((m) => m.id === 4).url)? 'header__menu-active':'' }`}>
                             <span className="text">{TextMenu.find((m) => m.id === 4).text}</span>
                             <SVGArrowDown />
@@ -104,11 +104,11 @@ const HorizontalMenu = () => {
                         </ul>
                     </li>
                     <li className="header__menu-root menu__dropdown menu__mega">
-                        <Link href={TextMenu.find((m) => m.id === 5).url} className={`header__menu-item list-menu__item dropdown-toggle ${ (router.asPath === TextMenu.find((m) => m.id === 5).url)? 'header__menu-active':'' }`}>
+                        <Link href="/blog" className={`header__menu-item list-menu__item dropdown-toggle ${ (router.asPath === TextMenu.find((m) => m.id === 5).url)? 'header__menu-active':'' }`}>
                             <span className="text">{TextMenu.find((m) => m.id === 5).text}</span>
-                            <SVGArrowDown />
+                            {/* <SVGArrowDown /> */}
                         </Link>
-                        <ul className="header__mega dropdown-menu row" role="list">
+                        {/* <ul className="header__mega dropdown-menu row hidden" role="list">
                             <MenuSub sub={TextMenuCol4} />
                             {
                                 Blogdata.map((item) => (
@@ -141,7 +141,7 @@ const HorizontalMenu = () => {
                                     </li>
                                 ))
                             }
-                        </ul>
+                        </ul> */}
                     </li>
                     <li className="header__menu-root menu__dropdown">
                         <Link href={TextMenu.find((m) => m.id === 6).url} className={`header__menu-item list-menu__item dropdown-toggle ${ (router.asPath === TextMenu.find((m) => m.id === 6).url)? 'header__menu-active':'' }`}>

@@ -45,6 +45,7 @@
 
 .header__mega-root {
   list-style: none;
+  z-index: 10;
 }
 
 .header__inline-menu .list-menu--inline .header__menu-root {

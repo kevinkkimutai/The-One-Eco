@@ -9176,6 +9176,8 @@ body.overflow-hidden-mobile, body.overflow-hidden-tablet {
 
 .menu__dropdown:hover .header__mega.dropdown-menu, .menu__dropdown:focus .header__mega.dropdown-menu {
   display: flex !important;
+    z-index: 10;
+   
 }
 
 .header__inline-menu .list-menu {
@@ -9188,6 +9190,7 @@ body.overflow-hidden-mobile, body.overflow-hidden-tablet {
 
 .header__mega-root {
   list-style: none;
+  z-index: 10 !important;
 }
 
 .header__mega-root .header__mega-root-child:not(:last-child) {

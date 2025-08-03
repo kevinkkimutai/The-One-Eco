@@ -107,7 +107,7 @@ const SectionSlideshowIndex2 = () => {
         <>
             <section className={`${styles.index_slideshow} ${styles.index_slideshow2}`}>
                 <div className={styles.slideshow_spaced}>
-                    <div className="container-fluid">
+                    <div className="container-fluid ">
                         <div className={styles.slideshow_categories__content}>
                             <div className={styles.slideshow_component}>
                                 <div className={`${styles.slideshow_container} slideshow-template`}>
@@ -175,6 +175,7 @@ const SectionSlideshowIndex2 = () => {
                                             </div>
                                         </div>
                                     </div>
+                                    {/* right banner slider */}
                                     <div className="col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 col-xxl-2">
                                         <div className={styles.slideshow_ontop_row1_rbanners}>
                                             <div className="slideshow-ontop-productsslider">
@@ -183,7 +184,7 @@ const SectionSlideshowIndex2 = () => {
                                                         <Swiper {...carouselOptions2} className={`swiper-container`}>
                                                             <SwiperSlide>
                                                                 <div className={styles.slideshowproduct_item_content} style={{ backgroundColor: DataIndexSlideshow().product_bkg1 }}>
-                                                                    <div className={styles.slideshowproduct_heading}>{t("Slideshow2_Product1_Text1")}</div>
+                                                                    <div className={styles.slideshowproduct_heading}>{t("Slideshow2_Product1_Text1")}ddd</div>
                                                                     <div className={styles.slideshowproduct_subheading}>{t("Slideshow2_Product1_Text2")}</div>
                                                                     <div className={styles.slideshowproduct_price}><CurrencyConvert amount={parseInt(10)} /></div>
                                                                     <Link href={DataIndexSlideshow().product_link1} className={`${styles.slideshowproduct_img} effect-parent`}>
@@ -238,14 +239,14 @@ const SectionSlideshowIndex2 = () => {
                                     <div className="slideshow-ontop-bbanner slideshow-ontop-bbanner-1 effect-shine effect col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 col-xxl-">
                                         <Link href={DataIndexSlideshow().img1_link} className={`${styles.need_right} effect-parent`}>
                                             <Image src={DataIndexSlideshow().img1} alt="" width={417} height={140} />
-                                            <div className={styles.bbanner_caption}>{t("Slideshow2_CELLPHONE_UNDER")}<br /><span className={styles.bbanner_caption_span}>$59</span></div>
+                                            <div className={styles.bbanner_caption}>{t("Slideshow2_CELLPHONE_UNDER")}<br /><span className={styles.bbanner_caption_span}>ksh: 5900</span></div>
                                         </Link>
                                     </div>
                                     <div className="slideshow-ontop-bbanner slideshow-ontop-bbanner-2 effect-shine effect col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 col-xxl-">
 
                                         <Link href={DataIndexSlideshow().img2_link} className="effect-parent">
                                             <Image src={DataIndexSlideshow().img2} alt="" width={417} height={140} />
-                                            <div className={styles.bbanner_caption}>{t("Slideshow2_VIDEO_GAMES_FROM")}<br /><span className={styles.bbanner_caption_span}>$15</span></div>
+                                            <div className={styles.bbanner_caption}>{t("Slideshow2_VIDEO_GAMES_FROM")}<br /><span className={styles.bbanner_caption_span}>ksh: 1500</span></div>
                                         </Link>
                                     </div>
                                     <div className="slideshow-ontop-bbanner slideshow-ontop-bbanner-3 effect-shine effect col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 col-xxl-">

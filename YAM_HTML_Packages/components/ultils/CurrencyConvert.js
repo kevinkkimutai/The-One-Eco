@@ -23,7 +23,7 @@ const CurrencyConvert = (props) => {
     return (
         <span className={`money from-usd-${props.amount} to-${currency}`}>
             {currencySymbol}{formatCurrency(output)}
-            <span className='currency-name'>{currency}</span>
+            {/* <span className='currency-name'>{currency}</span> */}
         </span>
     )
 }

@@ -27,11 +27,11 @@ export default function Home4() {
     const { t } = useTranslation();
     return (
         <div>
-            <Head>
-                <title>{t('Index_page')}</title>
-                <meta name="description" content={t('Index_page')} />
-                <link rel="icon" href="/favicon.ico" />
-            </Head>
+             <Head>
+        <title>Kten Ecommerce</title>
+        <meta name="description" content="Shop the latest products at Kten Ecommerce" />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
 
             <Header />
             <main>

@@ -445,9 +445,10 @@
 
 .slideshow_ontop_row1>div,
 .slideshow_ontop_row2>div {
-  z-index: 3;
+  z-index: 1;
   padding-left: 10px;
   padding-right: 10px;
+
 }
 
 @media screen and (max-width: 767px) {
@@ -466,7 +467,7 @@
 }
 
 .slideshow_ontop_row1_allcollections {
-  z-index: 2;
+  z-index: 4;
 }
 
 .slideshow_ontop_row2>div,
@@ -490,7 +491,7 @@
   }
 
   .bbanner_caption_span {
-    font-size: 30px;
+    font-size: 24px;
     margin-top: 5px;
   }
 
@@ -532,7 +533,7 @@
 
 .bbanner_caption_span {
   font-weight: 700;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 @media screen and (min-width: 1600px) {
@@ -541,7 +542,7 @@
   }
 
   .bbanner_caption_span {
-    font-size: 36px;
+    font-size: 26px;
   }
 }
 
@@ -561,7 +562,7 @@
   }
 
   .bbanner_caption_span {
-    font-size: 36px;
+    font-size: 26px;
   }
 }
 
@@ -625,6 +626,7 @@
     flex-wrap: wrap;
     margin-left: -10px;
     margin-right: -10px;
+    z-index: 1;
   }
 
   .slideshow_ontop_row1_rbanners>div {

@@ -75,7 +75,7 @@ export default function AboutPage() {
     return (
         <>
             <Head>
-                <title>{t("Account_page")}</title>
+                <title>Account_page</title>
             </Head>
             <Header/>
             <main>

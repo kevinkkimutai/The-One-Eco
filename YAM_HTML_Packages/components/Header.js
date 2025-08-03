@@ -91,7 +91,7 @@ const Header = () => {
                                 <nav className='top-header__menu'>
                                     <ul className='top-header__menu-content list-menu--inline no-bullet clearfix'>
                                         <LoginDropdown />
-                                        <li className="top-header__menu-root header__menu-currencywrap menu__dropdown">
+                                        <li className="top-header__menu-root header__menu-currencywrap menu__dropdown hidden">
                                             <div className='dropdown-toggle top-header__menu-item list-menu__item header-currency'>
                                                 {currencySymbol} {currency}
                                                 <SVGArrowDown />
@@ -124,12 +124,12 @@ const Header = () => {
                                                 </Link>
                                             </header-compare>
                                         </li>
-                                        <li className="top-header__menu-root header__menu-text2">
+                                        <li className="top-header__menu-root header__menu-text2 hidden">
                                             <Link href="/page-contact">
                                                 {t("Help")}
                                             </Link>
                                         </li>
-                                        <li className="top-header__menu-root header__menu-text2">
+                                        <li className="top-header__menu-root header__menu-text2 hidden">
                                             <Link href="/blog">{t("Blog")}</Link>
                                         </li>
                                     </ul>
@@ -180,10 +180,10 @@ const Header = () => {
                                             <div className="header__delivery-text">
                                                 <div className="localization-form__content menu__dropdown">
                                                     <button type="button" className="localization-form__select dropdown-toggle" data-toggle="HeaderCountryList">
-                                                        <span className="text">{t("Select_language")}</span>
-                                                        <span className="bold">{languagename}</span>
+                                                        <span className="text">Kenya</span>
+                                                        <span className="bold">Kasarani</span>
                                                     </button>
-                                                    <ul className="header__menu-location no-bullet dropdown-menu">
+                                                    <ul className="header__menu-location no-bullet dropdown-menu hidden">
                                                         <li className="header__menu-login-content">
                                                             <ul id="HeaderCountryList" role="list" className="no-bullet localization-form__list">
                                                                 <li className={`localization-form__item ${(languagename === 'English') ? 'localization-form__active' : ''}`}>
@@ -219,7 +219,7 @@ const Header = () => {
                                             <div className="header__delivery-text">
                                                 <Link href="tel:19006789">
                                                     <span className="text">{t("Hotline")}</span>
-                                                    <span className="bold">1900-6789</span>
+                                                    <span className="bold">+254 746 645 142</span>
                                                 </Link>
                                             </div>
                                         </div>
