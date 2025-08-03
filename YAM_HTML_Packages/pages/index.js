@@ -1,26 +1,27 @@
 import Head from 'next/head'
 import useTranslation from '../components/ultils/useTranslation'
 import Header from '../components/Header'
-import SectionSlideshowIndex2 from '../components/SectionSlideshowIndex2'
-import SectionProductTabDeal2 from '../components/SectionProductTabDeal2'
-import SectionTwoBanners from '../components/SectionTwoBanners'
-import SectionBannersBrand from '../components/SectionBannersBrand'
+import SectionSlideshowIndex3 from '../components/SectionSlideshowIndex3'
+import SectionCategories from '../components/SectionCategories'
+import SectionCountdown from '../components/SectionCountdown'
 import SectionProductSlider from '../components/SectionProductSlider'
+import SectionBrandListing2 from '../components/SectionBrandListing2'
+import SectionBannersCaption2 from '../components/SectionBannersCaption2'
+import SectionTwoBanners from '../components/SectionTwoBanners'
+import SectionProductTabBanner from '../components/SectionProductTabBanner'
 import SectionProductGrid from '../components/SectionProductGrid'
-import SectionBannersCaption from '../components/SectionBannersCaption'
 import Footer from '../components/Footer'
 import ExtNewsletterPopup from '../components/ExtNewsletterPopup'
 import ExtCookiesBar from '../components/ExtCookiesBar'
 import ExtNotification from '../components/ExtNotification'
 
-import { DataIndexBanners2 } from '../components/data/DataIndexBanners2';
-import { DataIndexBannersBrand } from '../components/data/DataIndexBannersBrand';
+import { DataIndexBanners2 } from '../components/data/DataIndexBanners3';
 
-export default function Home2() {
+export default function Home3() {
   if (typeof window !== 'undefined') {
     document.body.className = "";
     document.body.classList.add('template-index');
-    document.body.classList.add('yam-react-2');
+    document.body.classList.add('yam-react-3');
   }
   const { t } = useTranslation();
   return (
@@ -33,43 +34,19 @@ export default function Home2() {
 
       <Header />
       <main>
-        <SectionSlideshowIndex2 />
-        <SectionProductTabDeal2 />
+        <SectionSlideshowIndex3 />
+        <SectionCategories />
+        <SectionCountdown />
+        <SectionProductSlider titlecenter={true} />
+        <SectionBrandListing2 />
+        <SectionBannersCaption2 />
         <SectionTwoBanners
           banner1={DataIndexBanners2().img1}
           banner2={DataIndexBanners2().img2}
           link1={DataIndexBanners2().img1_link}
           link2={DataIndexBanners2().img2_link} />
-        <SectionProductGrid titlecenter={true} />
-        <SectionBannersBrand
-          data1={DataIndexBannersBrand().data1}
-          data2={DataIndexBannersBrand().data2}
-          bannerPosition={'right'} />
-        <SectionTwoBanners
-          banner1={DataIndexBanners2().img3}
-          banner2={DataIndexBanners2().img4}
-          link1={DataIndexBanners2().img3_link}
-          link2={DataIndexBanners2().img4_link} />
-        <SectionBannersBrand
-          data1={DataIndexBannersBrand().data3}
-          data2={DataIndexBannersBrand().data4}
-          bannerPosition={'right'} />
-        <SectionTwoBanners
-          banner1={DataIndexBanners2().img5}
-          banner2={DataIndexBanners2().img6}
-          link1={DataIndexBanners2().img5_link}
-          link2={DataIndexBanners2().img6_link} />
-        <SectionProductSlider titlecenter={true} />
-        <SectionBannersBrand
-          data1={DataIndexBannersBrand().data5}
-          data2={DataIndexBannersBrand().data6}
-          bannerPosition={'right'} />
-        <SectionTwoBanners
-          banner1={DataIndexBanners2().img7}
-          banner2={DataIndexBanners2().img8}
-          link1={DataIndexBanners2().img7_link}
-          link2={DataIndexBanners2().img8_link} />
-        <SectionBannersCaption />
+        <SectionProductTabBanner />
+        <SectionProductGrid />
       </main>
       <Footer />
       <ExtNewsletterPopup />
