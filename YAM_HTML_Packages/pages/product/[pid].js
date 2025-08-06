@@ -86,29 +86,28 @@ const ProductPage = () => {
     const closeModal = () => setOpen(false);
     const [groupImages, setGroupImages] = useState(null);
 
-    useEffect(() => {
-        const findPro = ProductData.findIndex(a => (a.handle === String(pid)));
-        if (findPro >= 0) {
-            setProduct(ProductData[findPro]);
-            setGroupImages(ProductData[findPro].image)
-            if (ProductData[findPro].option.length > 0) setOption1(ProductData[findPro].option[0].variant[0].title);
-            if (ProductData[findPro].option.length > 1) setOption2(ProductData[findPro].option[1].variant[0].title);
-            setTotal(qty * parseInt(ProductData[findPro].price));
-            if (ProductData[findPro].layout != undefined) setProView(ProductData[findPro].layout);
-            // sidebar on/off
-            if (proView.includes('sidebar') || proView.includes('rightbar') || proView.includes('advanced') || proView.includes('group-images')) {
-                setHasSidebar(true);
-                setColumnView('col-12 col-md-4-5');
-            } else {
-                setHasSidebar(false);
-                setColumnView('col-12 col-md-12');
-            }
-        }
-        setTimeout(() => {
-            setisLoading(false);
-        }, 1000);
+  useEffect(() => {
+    const findPro = ProductData.findIndex(a => (a.handle === String(pid)));
+    if (findPro >= 0) {
+        setProduct(ProductData[findPro]);
+        setGroupImages(ProductData[findPro].image)
+        if (ProductData[findPro].option.length > 0) setOption1(ProductData[findPro].option[0].variant[0].title);
+        if (ProductData[findPro].option.length > 1) setOption2(ProductData[findPro].option[1].variant[0].title);
+        setTotal(qty * parseInt(ProductData[findPro].price));
+        
+        // Always set to sidebar view regardless of product layout
+        setProView('sidebar');
+        
+        // Always show sidebar
+        setHasSidebar(true);
+        setColumnView('col-12 col-md-4-5');
+    }
+    setTimeout(() => {
+        setisLoading(false);
+    }, 1000);
 
-    }, [pid, hasSidebar, proView])
+}, [pid, hasSidebar, proView])
+
     useEffect(() => { }, [product, ProductData, qty, total, isLoading]);
 
     const { asPath } = useRouter();
@@ -138,12 +137,12 @@ const ProductPage = () => {
                 <div className={`collection--template__sidebar ${proView.includes('rightbar') ? styles.sidebar_right : styles.sidebar_left} d-none d-md-block col-12 col-md-2-4`}>
                     <StickyBox offsetTop={0} offsetBottom={20}>
                         <div className='collection-sidebar__content'>
-                            <div className={`${styles.sidebar__item} ${styles.sidebar_accordion} accordion collection-sidebar__listing ${sidebarCategory ? styles.sidebar_accordion_open : ''}`}>
+                            <div className={`${styles.sidebar__item} ${styles.sidebar_accordion} hidden accordion collection-sidebar__listing ${sidebarCategory ? styles.sidebar_accordion_open : ''}`}>
                                 <h4 className={`${styles.sidebar_accordion_title} accordion__title`} onClick={() => setSidebarCategory(o => !o)}>
                                     <span>{t("Sidebar_Categories")}</span>
                                     <SVGArrowDown />
                                 </h4>
-                                <div className={`accordion__content component-scrollbar ${sidebarCategory ? '' : 'accordionItemCollapsed'}`}>
+                                <div className={`accordion__content component-scrollbar hidden ${sidebarCategory ? '' : 'accordionItemCollapsed'}`}>
                                     <ul className={`${styles.sidebar_content_ul} list-unstyled`}>
                                         {
                                             Collections_Menu.map((data, index) => (

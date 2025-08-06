@@ -2,7 +2,7 @@
     {
         "id": 1,
         "handle": "women-fashion",
-        "name":"Women's Fashion",
+        "name":"Cookware Essentials",
         "product_count": 18,
         "featured_image":"/assets/images/collection-img1.jpg",
         "banner": [
@@ -84,7 +84,7 @@
     {
         "id": 2,
         "handle": "men-fashion",
-        "name":"Men's Fashion",
+        "name":"Kitchen Appliances",
         "product_count": 12,
         "featured_image":"/assets/images/collection-img2.jpg",
         "banner": [
@@ -101,7 +101,7 @@
     {
         "id": 3,
         "handle": "kids-fashion",
-        "name":"Kids Fashion",
+        "name":"Dining & Serving",
         "product_count": 12,
         "featured_image":"/assets/images/collection-img3.jpg",
         "banner": [
@@ -118,7 +118,7 @@
     {
         "id": 4,
         "handle": "dresses",
-        "name":"Dresses",
+        "name":"Cooking Utensils",
         "product_count": 6,
         "featured_image":"/assets/images/collection-img4.jpg",
         "desc": "Fashion blogs can give you inspiration for dressing well even on those lazy mornings. Got your eye on this season’s hottest trends? These blogs are great for helping you figure out which clothing pieces and colors suit your frame. They can also provide you with ideas about mixing and matching pieces to create a dozen perfect looks without breaking the bank."        ,
@@ -128,7 +128,7 @@
     {
         "id": 5,
         "handle": "clothing-sets",
-        "name":"Clothing Sets",
+        "name":"Knife Sets",
         "product_count": 6,
         "featured_image":"/assets/images/collection-img5.jpg",
         "desc": "Fashion blogs can give you inspiration for dressing well even on those lazy mornings. Got your eye on this season’s hottest trends? These blogs are great for helping you figure out which clothing pieces and colors suit your frame. They can also provide you with ideas about mixing and matching pieces to create a dozen perfect looks without breaking the bank."        ,
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "handle": "tops-tees",
-        "name":"Tops & Tees",
+        "name":"Bake & Roast",
         "product_count": 6,
         "featured_image":"/assets/images/collection-img6.jpg",
         "desc": "Fashion blogs can give you inspiration for dressing well even on those lazy mornings. Got your eye on this season’s hottest trends? These blogs are great for helping you figure out which clothing pieces and colors suit your frame. They can also provide you with ideas about mixing and matching pieces to create a dozen perfect looks without breaking the bank."        ,

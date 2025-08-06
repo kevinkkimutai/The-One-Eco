@@ -4,27 +4,27 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product1-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/36/3511421/1.jpg?4101",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product1-2.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/36/3511421/2.jpg?4101",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/36/3511421/1.jpg?4101",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/36/3511421/2.jpg?4101",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 5,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/36/3511421/1.jpg?4101",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -86,13 +86,13 @@
                 "id":1,
                 "name": "Hat",
                 "handle":"hat",
-                "thumb":"/assets/images/product/Product19-1.jpg"
+                "thumb":"https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/37/7903572/1.jpg?5359"
             },
             {
                 "id":1,
                 "name": "Shorts",
                 "handle":"shorts",
-                "thumb":"/assets/images/product/Product20-1.jpg"
+                "thumb":"https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/59/0747062/1.jpg?1909"
             }
         ],
         "related_product": "19,20,11,12,13,14",
@@ -128,27 +128,27 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product21-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/3847803/1.jpg?0962g",
                 "imgalt": "Single Breasted Poplin Shirts"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product21-2.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/3847803/2.jpg?0962",
                 "imgalt": "Single Breasted Poplin Shirts"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product21-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/3847803/3.jpg?0962",
                 "imgalt": "Single Breasted Poplin Shirts"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product21-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/3847803/7.jpg?0962",
                 "imgalt": "Single Breasted Poplin Shirts"
             },
             {
                 "idpro": 5,
-                "imgpath": "/assets/images/product/Product21-5.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/3847803/2.jpg?0962",
                 "imgalt": "Single Breasted Poplin Shirts"
             }
         ],
@@ -342,22 +342,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product3-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/2973803/1.jpg?8290",
                 "imgalt": "Large Vacuum Cleaner"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product2-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/2973803/2.jpg?8290",
                 "imgalt": "Large Vacuum Cleaner"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/2973803/5.jpg?8290",
                 "imgalt": "Large Vacuum Cleaner"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/2973803/6.jpg?0963",
                 "imgalt": "Large Vacuum Cleaner"
             }
         ],
@@ -416,27 +416,27 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product4-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/61/4253903/1.jpg?2535",
                 "imgalt": "Wireless Headset Screen"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product5-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/61/4253903/2.jpg?2535",
                 "imgalt": "Wireless Headset Screen"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product6-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/61/4253903/4.jpg?2535",
                 "imgalt": "Wireless Headset Screen"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product7-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/61/4253903/6.jpg?6207",
                 "imgalt": "Wireless Headset Screen"
             },
             {
                 "idpro": 5,
-                "imgpath": "/assets/images/product/Product9-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/61/4253903/6.jpg?6207",
                 "imgalt": "Wireless Headset Screen"
             }
         ],
@@ -502,22 +502,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product5-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/21/4000903/1.jpg?4639",
                 "imgalt": "TeletK Portable Fan"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product6-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/21/4000903/2.jpg?4639",
                 "imgalt": "TeletK Portable Fan"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/21/4000903/5.jpg?4639",
                 "imgalt": "TeletK Portable Fan"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/21/4000903/8.jpg?4639",
                 "imgalt": "TeletK Portable Fan"
             }
         ],
@@ -567,22 +567,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product6-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/05/8950921/1.jpg?7994",
                 "imgalt": "Gamepad Tester 2022"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product2-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/06/1797941/1.jpg?7095",
                 "imgalt": "Gamepad Tester 2022"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/68/528916/1.jpg?0866",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/68/528916/1.jpg?0866",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -638,22 +638,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product7-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/63/5086652/4.jpg?3221",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product8-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/63/5086652/5.jpg?3221",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/63/5086652/6.jpg?3221",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/63/5086652/7.jpg?3221",
                 "imgalt": "New Black Headphone"
             }
         ],
@@ -714,22 +714,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product8-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/43/0123472/1.jpg?3778",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product7-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/43/0123472/2.jpg?3778",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/43/0123472/1.jpg?3778",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/43/0123472/2.jpg?3778",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -789,22 +789,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product9-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/49/162038/1.jpg?9189",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product8-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/49/162038/3.jpg?9189",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/49/162038/1.jpg?9189",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/49/162038/2.jpg?9189",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -864,22 +864,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product10-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/58/8810692/1.jpg?3892",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product9-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/58/8810692/2.jpg?3892",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/58/8810692/1.jpg?3892",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/58/8810692/2.jpg?3892",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -939,22 +939,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product11-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/00/8580672/1.jpg?5373",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product9-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/00/8580672/2.jpg?5373",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/00/8580672/1.jpg?5373",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/00/8580672/2.jpg?5373",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -1014,22 +1014,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product12-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/82/5696192/1.jpg?5354",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product10-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/82/5696192/2.jpg?5354",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/82/5696192/2.jpg?5354",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/82/5696192/1.jpg?5354",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -1077,22 +1077,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product13-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/12/3529413/1.jpg?4570",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product11-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/12/3529413/2.jpg?4570",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/12/3529413/1.jpg?4570",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/12/3529413/8.jpg?4570",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -1152,22 +1152,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product14-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/34/8086351/1.jpg?0995",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product12-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/34/8086351/1.jpg?0995",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/34/8086351/1.jpg?0995",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/34/8086351/1.jpg?0995",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -1227,22 +1227,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product15-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/09/2848492/1.jpg?9379",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product13-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/09/2848492/3.jpg?9379",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/09/2848492/4.jpg?9379",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/09/2848492/1.jpg?9379",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -1302,22 +1302,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product16-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/25/6866313/1.jpg?8624",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product14-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/25/6866313/3.jpg?8624",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/25/6866313/4.jpg?8624",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/25/6866313/1.jpg?8624",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -1377,22 +1377,22 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product17-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/44/482585/1.jpg?2312",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product15-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/44/482585/2.jpg?2312",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/44/482585/1.jpg?2312",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/44/482585/2.jpg?2312",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -1452,7 +1452,7 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product18-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/52/1993682/2.jpg?5970",
                 "imgalt": "New Black Headphone"
             },
             {
@@ -1462,12 +1462,12 @@
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/52/1993682/1.jpg?5970",
                 "imgalt": "Advance Product Type"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/44/482585/2.jpg?2312",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -1527,7 +1527,7 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product19-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/37/7903572/1.jpg?5359",
                 "imgalt": "New Black Headphone"
             },
             {
@@ -1537,12 +1537,12 @@
             },
             {
                 "idpro": 3,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/52/1993682/1.jpg?5970",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/44/482585/2.jpg?2312",
                 "imgalt": "New Black Headphone"
             }
         ],
@@ -1605,7 +1605,7 @@
                 "id":2,
                 "name": "Shorts",
                 "handle":"shorts",
-                "thumb":"/assets/images/product/Product20-1.jpg"
+                "thumb":"https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/59/0747062/1.jpg?1909"
             }
         ],
         "related_product": "1,20,11,12,13,14",
@@ -1625,12 +1625,12 @@
         "image": [
             {
                 "idpro": 1,
-                "imgpath": "/assets/images/product/Product20-1.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/59/0747062/1.jpg?1909",
                 "imgalt": "New Black Headphone"
             },
             {
                 "idpro": 2,
-                "imgpath": "/assets/images/product/Product1-3.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/52/1993682/1.jpg?5970",
                 "imgalt": "New Black Headphone"
             },
             {
@@ -1640,7 +1640,7 @@
             },
             {
                 "idpro": 4,
-                "imgpath": "/assets/images/product/Product1-4.jpg",
+                "imgpath": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/44/482585/2.jpg?2312",
                 "imgalt": "Advance Product Type"
             }
         ],
@@ -1703,7 +1703,7 @@
                 "id":2,
                 "name": "Hat",
                 "handle":"hat",
-                "thumb":"/assets/images/product/Product19-1.jpg"
+                "thumb":"https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/37/7903572/1.jpg?5359"
             }
         ],
         "related_product": "1,19,11,12,13,14",

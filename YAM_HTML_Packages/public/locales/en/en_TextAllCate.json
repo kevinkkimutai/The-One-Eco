@@ -1,27 +1,27 @@
 [
     {
         "id": 1,
-        "text": "Shop Layout",
+        "text": "All Kitchenware",
         "url":"/collection"     
     },
     {
         "id": 2,
-        "text": "Mother & Baby",
+        "text": "Cookware Sets",
         "url":"/collection/women-fashion"       
     },
     {
         "id": 3,
-        "text": "Health & Beauty",
+        "text": "Bakeware",
         "url":"/collection/men-fashion"         
     },
     {
         "id": 4,
-        "text": "Electronics",
+        "text": "Kitchen Appliances",
         "url":"/collection/kids-fashion"          
     },
     {
         "id": 5,
-        "text": "Home, Garden",
+        "text": "Cutlery & Knives",
         "url":"/collection/tops-tees"         
     },
     {
@@ -31,32 +31,32 @@
     },
     {
         "id": 7,
-        "text": "Clothing & Shoes",
+        "text": "Food Storage",
         "url":"/collections"          
     },
     {
         "id": 8,
-        "text": "Laptop & Macbook",
+        "text": "Dinnerware",
         "url":"/collection/women-fashion"          
     },
     {
         "id": 9,
-        "text": "Books - Gifts",
+        "text": "Drinkware",
         "url":"/collection/dresses"          
     },
     {
         "id": 10,
-        "text": "Outdoors",
+        "text": "Kitchen Gadgets",
         "url":"/collection/clothing-sets"          
     },
     {
         "id": 11,
-        "text": "Pet Supplies",
+        "text": "Serving Dishes",
         "url":"/collection/kids-fashion"          
     },
     {
         "id": 12,
-        "text": "Furniture",
+        "text": "Kitchen Tools",
         "url":"/collection/men-fashion"          
     }
 ]

@@ -1,0 +1,629 @@
+ [
+        {
+            "sku": "EC446HA5B3XCGNAFAMZ",
+            "name": "Wave 2 Portable Air Conditioner, Air Conditioning Unit With Heat",
+            "displayName": "Ecoflow Wave 2 Portable Air Conditioner, Air Conditioning Unit With Heat",
+            "brand": "Ecoflow",
+            "sellerId": 138264,
+            "isShopExpress": true,
+            "categories": [
+                "Home \u0026 Office",
+                "Home \u0026 Kitchen",
+                "Heating, Cooling \u0026 Air Quality",
+                "Air Conditioners \u0026 Accessories",
+                "Air Conditioners",
+                "Portable"
+            ],
+            "prices": {
+                "rawPrice": "207999.00",
+                "price": "KSh 207,999",
+                "priceEuro": "1388.24",
+                "taxEuro": "191.48"
+            },
+            "tags": "JMALL",
+            "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/9898403/1.jpg?9656",
+            "sponsored": {
+                "adInfo": "ad-sp:01k201s526vbcj0dce8r0frewk-52827ce6c74f81ac30245d116ef9ad67f4fabf2d"
+            },
+            "isSponsored": true,
+            "tracking": {
+                "name": "Wave 2 Portable Air Conditioner, Air Conditioning Unit With Heat",
+                "categoryKey": "portable-air-conditioners",
+                "brandKey": "ecoflow",
+                "mirakl": {
+                    "impression": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewk-52827ce6c74f81ac30245d116ef9ad67f4fabf2d"
+                    },
+                    "click": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewk-52827ce6c74f81ac30245d116ef9ad67f4fabf2d"
+                    }
+                },
+                "isSecondChance": false
+            },
+            "url": "/ecoflow-wave-2-portable-air-conditioner-air-conditioning-unit-with-heat-304898902.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "EC446HA5B3XCGNAFAMZ-441414895",
+                    "loginUrl": "/customer/account/login/?tkWl=EC446HA5B3XCGNAFAMZ-441414895\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "207999.00",
+                        "price": "KSh 207,999",
+                        "priceEuro": "1388.24",
+                        "taxEuro": "191.48"
+                    }
+                }
+            ],
+            "selectedVariation": "EC446HA5B3XCGNAFAMZ-441414895",
+            "wishlist": {
+                "added": false,
+                "removeUrl": "/wishlist/remove/EC446HA5B3XCGNAFAMZ/"
+            }
+        },
+        {
+            "sku": "EC446HA5H29E8NAFAMZ",
+            "name": "Wave2 Add-on Battery, 1159Wh Battery For Portable Air Conditioner",
+            "displayName": "Ecoflow Wave2 Add-on Battery, 1159Wh Battery For Portable Air Conditioner",
+            "brand": "Ecoflow",
+            "sellerId": 138264,
+            "isShopExpress": true,
+            "categories": [
+                "Home \u0026 Office",
+                "Home \u0026 Kitchen",
+                "Heating, Cooling \u0026 Air Quality",
+                "Air Conditioners \u0026 Accessories",
+                "Air Conditioner Accessories"
+            ],
+            "prices": {
+                "rawPrice": "84174.78",
+                "price": "KSh 84,175",
+                "priceEuro": "561.81",
+                "taxEuro": "77.49",
+                "oldPrice": "KSh 134,280",
+                "oldPriceEuro": "896.22",
+                "discount": "37%",
+                "discountEuro": "334.42"
+            },
+            "tags": "CP_UN151|JMALL",
+            "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/9898403/1.jpg?9656",
+            "sponsored": {
+                "adInfo": "ad-sp:01k201s526vbcj0dce8r0frewj-c4ae2b2a775d709eff6ffcc7c5ab82cc4a1a8395"
+            },
+            "isSponsored": true,
+            "tracking": {
+                "name": "Wave2 Add-on Battery, 1159Wh Battery For Portable Air Conditioner",
+                "categoryKey": "air-conditioner-accessories-d",
+                "brandKey": "ecoflow",
+                "mirakl": {
+                    "impression": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewj-c4ae2b2a775d709eff6ffcc7c5ab82cc4a1a8395"
+                    },
+                    "click": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewj-c4ae2b2a775d709eff6ffcc7c5ab82cc4a1a8395"
+                    }
+                },
+                "isSecondChance": false
+            },
+            "url": "/ecoflow-wave2-add-on-battery-1159wh-battery-for-portable-air-conditioner-304898903.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "EC446HA5H29E8NAFAMZ-441414896",
+                    "loginUrl": "/customer/account/login/?tkWl=EC446HA5H29E8NAFAMZ-441414896\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "84174.78",
+                        "price": "KSh 84,175",
+                        "priceEuro": "561.81",
+                        "taxEuro": "77.49",
+                        "oldPrice": "KSh 134,280",
+                        "oldPriceEuro": "896.22",
+                        "discount": "37%",
+                        "discountEuro": "334.42"
+                    }
+                }
+            ],
+            "selectedVariation": "EC446HA5H29E8NAFAMZ-441414896",
+            "wishlist": {
+                "added": false,
+                "removeUrl": "/wishlist/remove/EC446HA5H29E8NAFAMZ/"
+            }
+        },
+        {
+            "sku": "GE840HA5QLHZ7NAFAMZ",
+            "name": " 304 Stainless Steel Digital Scales Kitchen Food Scale LCD Display with Battery ",
+            "displayName": "KnMn  304 Stainless Steel Digital Scales Kitchen Food Scale LCD Display with Battery ",
+            "brand": "KnMn",
+            "sellerId": 154772,
+            "isShopExpress": true,
+            "categories": [
+                "Home \u0026 Office",
+                "Home \u0026 Kitchen",
+                "Kitchen \u0026 Dining",
+                "Kitchen Utensils \u0026 Gadgets",
+                "Measuring Tools \u0026 Scales",
+                "Scales",
+                "Digital Scales"
+            ],
+            "prices": {
+                "rawPrice": "980.88",
+                "price": "KSh 981",
+                "priceEuro": "6.55",
+                "taxEuro": "0.90",
+                "oldPrice": "KSh 1,608",
+                "oldPriceEuro": "10.73",
+                "discount": "39%",
+                "discountEuro": "4.19"
+            },
+            "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/0039713/1.jpg?4467",
+            "sponsored": {
+                "adInfo": "ad-sp:01k201s526vbcj0dce8r0frewh-df629ba34b2c29e589d34fdc4ad28bcc85875ad7"
+            },
+            "isSponsored": true,
+            "tracking": {
+                "name": " 304 Stainless Steel Digital Scales Kitchen Food Scale LCD Display with Battery ",
+                "categoryKey": "digital-scales",
+                "brandKey": "knmn",
+                "mirakl": {
+                    "impression": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewh-df629ba34b2c29e589d34fdc4ad28bcc85875ad7"
+                    },
+                    "click": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewh-df629ba34b2c29e589d34fdc4ad28bcc85875ad7"
+                    }
+                },
+                "isSecondChance": false
+            },
+            "url": "/knmn-304-stainless-steel-digital-scales-kitchen-food-scale-lcd-display-with-battery-317930074.html",
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE840HA5QLHZ7NAFAMZ-456652252",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840HA5QLHZ7NAFAMZ-456652252\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "980.88",
+                        "price": "KSh 981",
+                        "priceEuro": "6.55",
+                        "taxEuro": "0.90",
+                        "oldPrice": "KSh 1,608",
+                        "oldPriceEuro": "10.73",
+                        "discount": "39%",
+                        "discountEuro": "4.19"
+                    }
+                }
+            ],
+            "selectedVariation": "GE840HA5QLHZ7NAFAMZ-456652252",
+            "wishlist": {
+                "added": false,
+                "removeUrl": "/wishlist/remove/GE840HA5QLHZ7NAFAMZ/"
+            }
+        },
+        {
+            "sku": "GE840HA5BCPWANAFAMZ",
+            "name": "Coffee Pod Holder Capsule Basket Bar Counter Organizer For K-cup Gold",
+            "displayName": "KnMn Coffee Pod Holder Capsule Basket Bar Counter Organizer For K-cup Gold",
+            "brand": "KnMn",
+            "sellerId": 154772,
+            "isShopExpress": true,
+            "categories": [
+                "Home \u0026 Office",
+                "Home \u0026 Kitchen",
+                "Kitchen \u0026 Dining",
+                "Coffee, Tea \u0026 Espresso",
+                "Coffee Maker Parts \u0026 Accessories"
+            ],
+            "prices": {
+                "rawPrice": "375.00",
+                "price": "KSh 375",
+                "priceEuro": "2.50",
+                "taxEuro": "0.35",
+                "oldPrice": "KSh 1,608",
+                "oldPriceEuro": "10.73",
+                "discount": "77%",
+                "discountEuro": "8.23"
+            },
+            "tags": "CP_UN151",
+            "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/4000903/1.jpg?4639",
+            "sponsored": {
+                "adInfo": "ad-sp:01k201s526vbcj0dce8r0frewg-e449d302fe9c07ef192be4509e202629ecc2fa3e"
+            },
+            "isSponsored": true,
+            "tracking": {
+                "name": "Coffee Pod Holder Capsule Basket Bar Counter Organizer For K-cup Gold",
+                "categoryKey": "coffee-maker-parts-accessories",
+                "brandKey": "knmn",
+                "mirakl": {
+                    "impression": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewg-e449d302fe9c07ef192be4509e202629ecc2fa3e"
+                    },
+                    "click": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewg-e449d302fe9c07ef192be4509e202629ecc2fa3e"
+                    }
+                },
+                "isSecondChance": false
+            },
+            "url": "/knmn-coffee-pod-holder-capsule-basket-bar-counter-organizer-for-k-cup-gold-309000412.html",
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE840HA5BCPWANAFAMZ-447147164",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840HA5BCPWANAFAMZ-447147164\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "375.00",
+                        "price": "KSh 375",
+                        "priceEuro": "2.50",
+                        "taxEuro": "0.35",
+                        "oldPrice": "KSh 1,608",
+                        "oldPriceEuro": "10.73",
+                        "discount": "77%",
+                        "discountEuro": "8.23"
+                    }
+                }
+            ],
+            "selectedVariation": "GE840HA5BCPWANAFAMZ-447147164",
+            "wishlist": {
+                "added": false,
+                "removeUrl": "/wishlist/remove/GE840HA5BCPWANAFAMZ/"
+            }
+        },
+        {
+            "sku": "GE840FD5KLH4TNAFAMZ",
+            "name": "50x80CM Bathroom Rugs Chenille Bath Rug Absorbent Shower Mat Grey",
+            "displayName": "KnMn 50x80CM Bathroom Rugs Chenille Bath Rug Absorbent Shower Mat Grey",
+            "brand": "KnMn",
+            "sellerId": 154772,
+            "isShopExpress": true,
+            "categories": [
+                "Home \u0026 Office",
+                "Home \u0026 Kitchen",
+                "Bath",
+                "Bath Rugs"
+            ],
+            "prices": {
+                "rawPrice": "897.80",
+                "price": "KSh 898",
+                "priceEuro": "5.99",
+                "taxEuro": "0.83",
+                "oldPrice": "KSh 1,608",
+                "oldPriceEuro": "10.73",
+                "discount": "44%",
+                "discountEuro": "4.74"
+            },
+            "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/36/9251813/1.jpg?7380",
+            "sponsored": {
+                "adInfo": "ad-sp:01k201s526vbcj0dce8r0frewf-23e66d9b1f0c46f25315cc1ab7c74ec99b21234a"
+            },
+            "isSponsored": true,
+            "tracking": {
+                "name": "50x80CM Bathroom Rugs Chenille Bath Rug Absorbent Shower Mat Grey",
+                "categoryKey": "bath-rugs",
+                "brandKey": "knmn",
+                "mirakl": {
+                    "impression": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewf-23e66d9b1f0c46f25315cc1ab7c74ec99b21234a"
+                    },
+                    "click": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewf-23e66d9b1f0c46f25315cc1ab7c74ec99b21234a"
+                    }
+                },
+                "isSecondChance": false
+            },
+            "url": "/knmn-50x80cm-bathroom-rugs-chenille-bath-rug-absorbent-shower-mat-grey-318152963.html",
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE840FD5KLH4TNAFAMZ-456762354",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840FD5KLH4TNAFAMZ-456762354\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "897.80",
+                        "price": "KSh 898",
+                        "priceEuro": "5.99",
+                        "taxEuro": "0.83",
+                        "oldPrice": "KSh 1,608",
+                        "oldPriceEuro": "10.73",
+                        "discount": "44%",
+                        "discountEuro": "4.74"
+                    }
+                }
+            ],
+            "selectedVariation": "GE840FD5KLH4TNAFAMZ-456762354",
+            "wishlist": {
+                "added": false,
+                "removeUrl": "/wishlist/remove/GE840FD5KLH4TNAFAMZ/"
+            }
+        },
+        {
+            "sku": "GE840FD6C046WNAFAMZ",
+            "name": "Metal Toilet Paper Holder Tissue Roll Hanger With Shelf Black",
+            "displayName": "KnMn Metal Toilet Paper Holder Tissue Roll Hanger With Shelf Black",
+            "brand": "KnMn",
+            "sellerId": 154772,
+            "isShopExpress": true,
+            "categories": [
+                "Home \u0026 Office",
+                "Home \u0026 Kitchen",
+                "Bath",
+                "Bathroom Accessories",
+                "Holders \u0026 Dispensers",
+                "Toilet Paper Holders"
+            ],
+            "prices": {
+                "rawPrice": "1072.00",
+                "price": "KSh 1,072",
+                "priceEuro": "7.15",
+                "taxEuro": "0.99",
+                "oldPrice": "KSh 1,608",
+                "oldPriceEuro": "10.73",
+                "discount": "33%",
+                "discountEuro": "3.58"
+            },
+            "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/9578803/1.jpg?0962",
+            "sponsored": {
+                "adInfo": "ad-sp:01k201s526vbcj0dce8r0frewe-5ec899822f1ec52dd07b7364a4f0492f8f7821da"
+            },
+            "isSponsored": true,
+            "tracking": {
+                "name": "Metal Toilet Paper Holder Tissue Roll Hanger With Shelf Black",
+                "categoryKey": "bathroom-accessories-toilet-paper-holders",
+                "brandKey": "knmn",
+                "mirakl": {
+                    "impression": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewe-5ec899822f1ec52dd07b7364a4f0492f8f7821da"
+                    },
+                    "click": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewe-5ec899822f1ec52dd07b7364a4f0492f8f7821da"
+                    }
+                },
+                "isSecondChance": false
+            },
+            "url": "/knmn-metal-toilet-paper-holder-tissue-roll-hanger-with-shelf-black-308875928.html",
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE840FD6C046WNAFAMZ-446993600",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840FD6C046WNAFAMZ-446993600\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1072.00",
+                        "price": "KSh 1,072",
+                        "priceEuro": "7.15",
+                        "taxEuro": "0.99",
+                        "oldPrice": "KSh 1,608",
+                        "oldPriceEuro": "10.73",
+                        "discount": "33%",
+                        "discountEuro": "3.58"
+                    }
+                }
+            ],
+            "selectedVariation": "GE840FD6C046WNAFAMZ-446993600",
+            "wishlist": {
+                "added": false,
+                "removeUrl": "/wishlist/remove/GE840FD6C046WNAFAMZ/"
+            }
+        },
+        {
+            "sku": "GE840FD69R883NAFAMZ",
+            "name": "Reed Diffuser",
+            "displayName": "Reed Diffuser",
+            "brand": "Generic",
+            "sellerId": 194488,
+            "categories": [
+                "Home \u0026 Office",
+                "Home \u0026 Kitchen",
+                "Home Decor",
+                "Home Fragrance"
+            ],
+            "prices": {
+                "rawPrice": "2200.00",
+                "price": "KSh 2,200",
+                "priceEuro": "14.68",
+                "taxEuro": "2.03"
+            },
+            "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/1839713/1.jpg?1353",
+            "sponsored": {
+                "adInfo": "ad-sp:01k201s526vbcj0dce8r0frewd-ebcdd9013db7be248a8c98822069fdeea245a00d"
+            },
+            "isSponsored": true,
+            "tracking": {
+                "name": "Reed Diffuser",
+                "categoryKey": "home-fragrance",
+                "brandKey": "generic",
+                "mirakl": {
+                    "impression": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewd-ebcdd9013db7be248a8c98822069fdeea245a00d"
+                    },
+                    "click": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewd-ebcdd9013db7be248a8c98822069fdeea245a00d"
+                    }
+                },
+                "isSecondChance": false
+            },
+            "url": "/generic-reed-diffuser-317938197.html",
+            "isBuyable": true,
+            "simples": [
+                {
+                    "sku": "GE840FD69R883NAFAMZ-456658978",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840FD69R883NAFAMZ-456658978\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "...English Pear \u0026 Freesia",
+                    "prices": {
+                        "rawPrice": "2200.00",
+                        "price": "KSh 2,200",
+                        "priceEuro": "14.68",
+                        "taxEuro": "2.03"
+                    }
+                },
+                {
+                    "sku": "GE840FD69R883NAFAMZ-456658990",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840FD69R883NAFAMZ-456658990\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "...Jasmine and White Tea",
+                    "prices": {
+                        "rawPrice": "2200.00",
+                        "price": "KSh 2,200",
+                        "priceEuro": "14.68",
+                        "taxEuro": "2.03"
+                    }
+                },
+                {
+                    "sku": "GE840FD69R883NAFAMZ-456658994",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840FD69R883NAFAMZ-456658994\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "...Lavender",
+                    "prices": {
+                        "rawPrice": "2200.00",
+                        "price": "KSh 2,200",
+                        "priceEuro": "14.68",
+                        "taxEuro": "2.03"
+                    }
+                },
+                {
+                    "sku": "GE840FD69R883NAFAMZ-456658980",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840FD69R883NAFAMZ-456658980\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "...Miss Coco",
+                    "prices": {
+                        "rawPrice": "2200.00",
+                        "price": "KSh 2,200",
+                        "priceEuro": "14.68",
+                        "taxEuro": "2.03"
+                    }
+                },
+                {
+                    "sku": "GE840FD69R883NAFAMZ-456658991",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840FD69R883NAFAMZ-456658991\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "...Osmanthus",
+                    "prices": {
+                        "rawPrice": "2200.00",
+                        "price": "KSh 2,200",
+                        "priceEuro": "14.68",
+                        "taxEuro": "2.03"
+                    }
+                }
+            ],
+            "variationSelection": true,
+            "wishlist": {
+                "added": false,
+                "removeUrl": "/wishlist/remove/GE840FD69R883NAFAMZ/"
+            }
+        },
+        {
+            "sku": "GE840FD4QOQ74NAFAMZ",
+            "name": "Metal Wall Clock Silver Dial Crystal Jewelry Round Home Decoration Wall Clock",
+            "displayName": "Metal Wall Clock Silver Dial Crystal Jewelry Round Home Decoration Wall Clock",
+            "brand": "Generic",
+            "sellerId": 140026,
+            "isShopExpress": true,
+            "categories": [
+                "Home \u0026 Office",
+                "Home \u0026 Kitchen",
+                "Home Decor",
+                "Home D\u00e9cor Accents",
+                "Ornaments"
+            ],
+            "prices": {
+                "rawPrice": "3425.04",
+                "price": "KSh 3,425",
+                "priceEuro": "22.86",
+                "taxEuro": "3.15",
+                "oldPrice": "KSh 3,706",
+                "oldPriceEuro": "24.74",
+                "discount": "8%",
+                "discountEuro": "1.88"
+            },
+            "tags": "BLF|CP_1|CP_UN146|CP_UN151|ZF_93",
+            "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/6884162/1.jpg?2980",
+            "sponsored": {
+                "adInfo": "ad-sp:01k201s526vbcj0dce8r0frewb-d5b8966b48582762a8360f53adc3a7d813f75287"
+            },
+            "isSponsored": true,
+            "tracking": {
+                "name": "Metal Wall Clock Silver Dial Crystal Jewelry Round Home Decoration Wall Clock",
+                "categoryKey": "ornaments",
+                "brandKey": "generic",
+                "mirakl": {
+                    "impression": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewb-d5b8966b48582762a8360f53adc3a7d813f75287"
+                    },
+                    "click": {
+                        "adId": "ad-sp:01k201s526vbcj0dce8r0frewb-d5b8966b48582762a8360f53adc3a7d813f75287"
+                    }
+                },
+                "isSecondChance": false
+            },
+            "url": "/generic-metal-wall-clock-silver-dial-crystal-jewelry-round-home-decoration-wall-clock-261488668.html",
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE840FD4QOQ74NAFAMZ-379255274",
+                    "loginUrl": "/customer/account/login/?tkWl=GE840FD4QOQ74NAFAMZ-379255274\u0026return=https%3A%2F%2Fwww.jumia.co.ke%2Fcatalog%2F%3Fq%3Dkitchen%2Butensils",
+                    "isBuyable": true,
+                    "name": "33*33cm",
+                    "prices": {
+                        "rawPrice": "3425.04",
+                        "price": "KSh 3,425",
+                        "priceEuro": "22.86",
+                        "taxEuro": "3.15",
+                        "oldPrice": "KSh 3,706",
+                        "oldPriceEuro": "24.74",
+                        "discount": "8%",
+                        "discountEuro": "1.88"
+                    }
+                }
+            ],
+            "selectedVariation": "GE840FD4QOQ74NAFAMZ-379255274",
+            "variationSelection": true,
+            "wishlist": {
+                "added": false,
+                "removeUrl": "/wishlist/remove/GE840FD4QOQ74NAFAMZ/"
+            }
+        }
+    ]
+
+   

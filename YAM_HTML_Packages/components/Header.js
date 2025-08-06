@@ -16,7 +16,7 @@ import AllCategories from './ultils/AllCategories'
 import HorizontalMenu from './ultils/HorizontalMenu'
 
 import CurrencyData from '../data/Currency.json';
-import Logo from '../public/assets/images/logo.png'
+import Logo from '../public/logo.png'
 import { SVGArrowDown, SVGSearch, SVGLocation, SVGPhone } from '../public/assets/SVG';
 
 const Header = () => {

@@ -88,39 +88,32 @@ const CollectionPage = () => {
     const [sidebarProducts, setSidebarProducts] = useState(true);
     const [sidebarMobile, setsidebarMobile] = useState(false);
 
-    useEffect(() => {
-        const findCate = CategoryData.findIndex(a => (a.handle === String(pid)));
-        if (findCate >= 0) {
-            setCategory(CategoryData[findCate]);
-            setcheckHandle(true);
-        }
+useEffect(() => {
+    const findCate = CategoryData.findIndex(a => (a.handle === String(pid)));
+    if (findCate >= 0) {
+        setCategory(CategoryData[findCate]);
+        setcheckHandle(true);
+    }
 
-        if (category.productsID != undefined) {
-            const ProductIDArray = category.productsID.split(',');
-            let remainingItems = [];
-            ProductIDArray.map((data) => {
-                let getProduct = ProductData.filter((item) => { return parseInt(data) === item.id });
-                remainingItems = [...remainingItems, getProduct[0]];
-            })
-            setProductData(remainingItems);
-            if (category.layout !== undefined) {
-                setCateView(category.layout);
-                if (category.layout.includes('nosidebar')) {
-                    setHasSidebar(false);
-                    setColumnView('col-12 col-md-12');
-                } else {
-                    setHasSidebar(true);
-                    setColumnView('col-12 col-md-4-5');
-                }
-                if (category.layout.includes('list')) setIsGrid(false);
-            }
-
-
-        }
-        setTimeout(() => {
-            setisLoading(false);
-        }, 1000);
-    }, [pid, category]);
+    if (category.productsID != undefined) {
+        const ProductIDArray = category.productsID.split(',');
+        let remainingItems = [];
+        ProductIDArray.map((data) => {
+            let getProduct = ProductData.filter((item) => { return parseInt(data) === item.id });
+            remainingItems = [...remainingItems, getProduct[0]];
+        })
+        setProductData(remainingItems);
+        
+        // Always force leftsidebar layout regardless of category.layout setting
+        setCateView('grid-leftsidebar');
+        setHasSidebar(true);
+        setColumnView('col-12 col-md-4-5');
+        setIsGrid(true); // Force grid view as well
+    }
+    setTimeout(() => {
+        setisLoading(false);
+    }, 1000);
+}, [pid, category]);
 
     useEffect(() => {
         setCurrentData(productData.slice(offset, offset + pageLimit));
@@ -224,7 +217,7 @@ const CollectionPage = () => {
                                             </ul>
                                         </div>
                                     </div>
-                                    <div className={`${styles.sidebar__item} ${styles.sidebar_accordion} accordion collection-sidebar__best ${sidebarProducts ? styles.sidebar_accordion_open : ''}`}>
+                                    <div className={`${styles.sidebar__item} ${styles.sidebar_accordion} accordion  collection-sidebar__best ${sidebarProducts ? styles.sidebar_accordion_open : ''}`}>
                                         <h4 className="accordion__title" onClick={() => setSidebarProducts(o => !o)}>
                                             <span>{t("Sidebar_Products")}</span>
                                             <SVGArrowDown />
